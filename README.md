@@ -51,3 +51,15 @@
 # Compares dequeue (queue) output with pop (stack) output.
 # Displays the palindrome validation result on the console.
 =======
+
+# UC7-Deque-BasedOptimizedPalindromeChecker for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Uses a Deque (Double-Ended Queue) to store characters.
+# Inserts characters into the deque from the rear.
+# Removes and compares front and rear characters.
+# Continues comparison until the deque is empty or mismatch is found.
+# Displays the palindrome validation result on the console.
+# Optimizes data handling by eliminating the need for separate reversal structures.
+=======
