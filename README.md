@@ -111,3 +111,19 @@
 # Single Responsibility Principle – Palindrome logic is separated from main program.
 # Displays the palindrome validation result on the console.
 ======
+
+# UC12-StrategyPatternPalindromeAlgorithm for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Implements Strategy Pattern to choose palindrome algorithm dynamically.
+# Defines a PalindromeStrategy interface.
+# Implements concrete strategies like StackStrategy and DequeStrategy.
+# Allows polymorphic behavior by injecting strategy at runtime.
+# Executes the selected strategy to check if the string is a palindrome.
+# Displays the palindrome validation result on the console.
+# Demonstrates OOP concepts:
+#   Interface
+#   Polymorphism
+#   Strategy Pattern
+======
