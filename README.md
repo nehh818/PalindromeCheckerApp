@@ -18,4 +18,14 @@
 # Builds the reversed string using String concatenation 
 # Compares the original and reversed strings using the equals() method.
 # Displays the palindrome validation result on the console.
+======= 
+
+# Use Case 4 for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Converts the input string into a character array (char[]).
+# Implements the two-pointer technique to compare characters from the beginning and end.
+# Avoids creating additional String objects, improving efficiency.
+# Displays the palindrome validation result on the console.
 
