@@ -98,3 +98,16 @@
 # Displays the palindrome validation result on the console.
 # Handles case-insensitivity and ignores spaces for accurate palindrome checking.
 =======
+
+# UC11-OODPPalindromeService for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Encapsulates palindrome checking logic inside a PalindromeChecker class.
+# Exposes a single method checkPalindrome() to check if a string is a palindrome.
+# Uses Stack internally for reversal and comparison.
+# Demonstrates OOP concepts:
+# Encapsulation – keeps data and behavior within the class.
+# Single Responsibility Principle – Palindrome logic is separated from main program.
+# Displays the palindrome validation result on the console.
+======
