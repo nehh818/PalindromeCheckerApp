@@ -28,4 +28,15 @@
 # Implements the two-pointer technique to compare characters from the beginning and end.
 # Avoids creating additional String objects, improving efficiency.
 # Displays the palindrome validation result on the console.
+======
 
+# UC5-StackPalindromeChecke for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Uses a Stack data structure (LIFO principle).
+# Pushes each character of the string into the stack.
+# Pops characters from the stack to naturally reverse the string.
+# Compares the original string with the reversed string using equals().
+# Displays the palindrome validation result on the console.
+=======
