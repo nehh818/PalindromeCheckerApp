@@ -63,3 +63,16 @@
 # Displays the palindrome validation result on the console.
 # Optimizes data handling by eliminating the need for separate reversal structures.
 =======
+
+# UC8-LinkedListPalindromeChecker for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Converts the string into a singly linked list.
+# Uses fast and slow pointer technique to find the middle of the list.
+# Reverses the second half of the linked list in-place.
+# Compares the first and second halves node by node.
+# Restores the original linked list structure after comparison.
+# Displays the palindrome validation result on the console.
+# Optimizes memory by performing reversal in-place without extra data structures.
+=======
