@@ -40,3 +40,14 @@
 # Compares the original string with the reversed string using equals().
 # Displays the palindrome validation result on the console.
 =======
+
+# UC6-Stack+QueueBasedPalindromeCheck for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Uses a Queue (FIFO) and Stack (LIFO) to store characters.
+# Enqueues characters into the queue.
+# Pushes characters onto the stack.
+# Compares dequeue (queue) output with pop (stack) output.
+# Displays the palindrome validation result on the console.
+=======
