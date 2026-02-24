@@ -76,3 +76,14 @@
 # Displays the palindrome validation result on the console.
 # Optimizes memory by performing reversal in-place without extra data structures.
 =======
+
+# UC9-RecursivePalindromChecker for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Uses recursion to check whether the string is a palindrome.
+# Compares characters from start and end in each recursive call.
+# Stops recursion when the start index meets or crosses the end index (base condition).
+# Uses the call stack to manage recursive method calls.
+# Displays the palindrome validation result on the console.
+=======
