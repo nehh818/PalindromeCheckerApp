@@ -127,3 +127,16 @@
 #   Polymorphism
 #   Strategy Pattern
 ======
+
+# UC13-PerformanceComparision for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Runs multiple palindrome algorithms:
+# Stack-based method (LIFO)
+# Deque-based method (Front & Rear comparison)
+# String reversal method
+# Captures execution time of each algorithm using System.nanoTime().
+# Compares performance and results of each approach.
+# Displays the outcome and execution time for each method on the console.
+# Demonstrates algorithm efficiency and time measurement in Java.
