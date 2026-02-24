@@ -87,3 +87,14 @@
 # Uses the call stack to manage recursive method calls.
 # Displays the palindrome validation result on the console.
 =======
+
+# UC10-Case-InsensitiveSpace-IgnoredPalindrome for Palindrome Checker App Executed
+# Displays a welcome and initialization message.
+# Prints application version and author details.
+# Accepts string input from the user via console.
+# Normalizes the input string by removing spaces and converting to lowercase.
+# Reverses the normalized string using a loop.
+# Compares the normalized string with its reversed version.
+# Displays the palindrome validation result on the console.
+# Handles case-insensitivity and ignores spaces for accurate palindrome checking.
+=======
