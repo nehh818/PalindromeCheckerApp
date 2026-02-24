@@ -11,4 +11,11 @@
 # Displayed the result on the console
 =======
 
+# UC3- PalindromeReverse executed
+# Displays the welcome and initialization message along with version and author details.
+# Accepts a string input from the user via console.
+# Reverses the string using a for loop.
+# Builds the reversed string using String concatenation 
+# Compares the original and reversed strings using the equals() method.
+# Displays the palindrome validation result on the console.
 
